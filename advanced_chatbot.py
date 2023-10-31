@@ -3,6 +3,7 @@
 import openai
 import gradio
 
+# ChatGBT API key
 openai.api_key = "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"
 
 # Describe your chatbot's expertise.
